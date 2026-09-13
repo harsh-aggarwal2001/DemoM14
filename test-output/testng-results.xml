@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[add]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-09-13T10:08:36 IST" name="Suite" finished-at="2026-09-13T10:08:36 IST" duration-ms="74">
+    <groups>
+      <group name="smoke">
+        <method signature="Demotest.test()[pri:0, instance:demo.Demotest@dd8ba08]" name="test" class="demo.Demotest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-09-13T10:08:36 IST" name="Test" finished-at="2026-09-13T10:08:36 IST" duration-ms="74">
+      <class name="demo.Demotest">
+        <test-method signature="test()[pri:0, instance:demo.Demotest@dd8ba08]" started-at="2026-09-13T10:08:36 IST" name="test" finished-at="2026-09-13T10:08:36 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[add]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- demo.Demotest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
